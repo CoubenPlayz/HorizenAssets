@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Geometry Dash",
+    "category": "Rhythm • Platformer",
+    "icon": "https://assets.33sjayakumar.workers.dev/cdn/images/GD.jpeg",
+    "url": "https://horizensearch.com/gd"
+  },
+  {
+    "name": "bloxdIO",
+    "category": "Game",
+    "icon": "https://assets.33sjayakumar.workers.dev/cdn/images/BloxdIO.jpeg",
+    "url": "https://bloxd.io"
+  },
+  {
+    "name": "HorizenMessages",
+    "category": "App • Messaging",
+    "icon": "https://wzfdomantqeaedfexpgq.supabase.co/storage/v1/object/public/avatars/6038d3c7-886f-44a2-99c0-63dfcdd2c08b/1793159662709.jpg",
+    "url": "https://assets.33sjayakumar.workers.dev/horizen_iframable/horizenmessages.html",
+    "messages": true
+  },
+  {
+    "name": "Minecraft",
+    "category": "Platformer, Sandbox",
+    "icon": "https://assets.33sjayakumar.workers.dev/cdn/images/Minecraft.webp",
+    "url": "https://assets.33sjayakumar.workers.dev/cdn/t/codes/Minecraft.html",
+  }
+]
